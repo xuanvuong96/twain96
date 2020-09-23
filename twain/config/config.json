@@ -1,0 +1,7 @@
+{
+  "code": "<123456>",
+  "host": "54.226.145.124",
+  "port": 5672,
+  "source_directory": "/twain/source",
+  "model_directory": "/twain/model"
+}
